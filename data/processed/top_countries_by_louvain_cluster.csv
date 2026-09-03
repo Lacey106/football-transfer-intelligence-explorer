@@ -1,0 +1,36 @@
+louvain_cluster,country,club_count
+0,England,269
+0,Scotland,21
+0,Ireland,16
+0,United States,11
+0,Belgium,8
+1,France,216
+1,Belgium,19
+1,Switzerland,9
+1,Turkey,9
+1,Qatar,7
+2,Italy,572
+2,Romania,21
+2,Switzerland,15
+2,Croatia,14
+2,Malta,11
+3,Spain,168
+3,Argentina,16
+3,China,13
+3,Mexico,11
+3,Greece,10
+4,Portugal,251
+4,Brazil,201
+4,Romania,19
+4,Cyprus,18
+4,China,17
+5,Netherlands,210
+5,Belgium,29
+5,Germany,15
+5,Sweden,14
+5,Turkey,10
+6,Germany,173
+6,Austria,14
+6,Switzerland,10
+6,Denmark,9
+6,Czech Republic,8
