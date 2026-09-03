@@ -1,0 +1,10 @@
+pandas
+numpy
+networkx
+python-louvain
+node2vec
+gensim
+scikit-learn
+matplotlib
+plotly
+streamlit
