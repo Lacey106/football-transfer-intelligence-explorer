@@ -5,6 +5,7 @@ python-louvain
 node2vec
 gensim
 scikit-learn
+scipy
 matplotlib
 plotly
 streamlit
